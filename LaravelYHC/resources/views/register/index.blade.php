@@ -59,7 +59,7 @@
             
             
             <button class="w-100 btn btn-lg btn-primary" type="submit">Register</button>
-            <p class="mt-5 mb-3 text-muted">&copy; 2022 |
+            <p class="mt-5 mb-3 text-muted">&copy; 2023 |
             you have an account ?<a href="/register"> login here</a></p>
           </form>
         </main>
